@@ -1,6 +1,6 @@
 Logininfo Project
 
-A simple PHP login system with MySQL database storage and styled frontend.
+A simple PHP login system with styled frontend.
 
 Features
 
